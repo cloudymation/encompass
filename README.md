@@ -1,37 +1,58 @@
 # encompass
 
-Full stack dev &amp; prod deployment of a containerised web app from the ground up.
+This repo is intended to detail a full stack journey to build a dev &amp; prod deployment of a containerised web app from the ground up.
 
-# Dev
+Many of the technology selections are due to ease of use, learning curve, ubiquitous availability or other reason that I'll endeavour to explain as we go. 
 
-## Pre-requisites
+## Dev
 
-## Setup
+### Pre-requisites
 
-## Python 3
+* Development machine
+  * Mac
 
-## Docker
+### Setup
 
-## CentOS
+### Python 3
 
-## PostgreSQL
+### Docker
 
-## NGINX
+### CentOS
 
-## Flask
+### PostgreSQL
 
-## Vue.js
+### NGINX
 
-## App
+### Flask
 
-# Production
+### Vue.js
 
-## Pre-requisites
+### HTML5
 
-## AWS
+### App
 
-## Terraform
+### Testing
 
-## Kubernetes
+## Production
 
-## Deployment
+### Pre-requisites
+
+* Credit Card
+
+### SSL
+
+### AWS
+
+#### VPC
+
+#### Security groups
+
+#### AMI
+
+### Terraform
+
+### Kubernetes
+
+### Deployment
+
+### Automation
